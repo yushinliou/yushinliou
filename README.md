@@ -2,6 +2,8 @@
 
 <!--<h1 align="center">Hi, I'm Lexi</h1>-->
 <h3 align="left">Engineering for humanity 🌱</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yushinliou&label=Profile%20views&color=0e75b6&style=flat" alt="yushinliou" /> </p>
+
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/HzPtbOKyBoBFsK4hyc.webp">
 <!-- https://media.tenor.com/Rc1GWDr71WIAAAAM/psyduck.gif -->
 
