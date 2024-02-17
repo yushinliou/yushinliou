@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://media1.tenor.com/m/arL-Och6Y7sAAAAC/connecting-loading.gif)](https://yushinliou.github.io) -->
 
 <!--<h1 align="center">Hi, I'm Lexi</h1>-->
-<h3 align="right">I Engineering for humanity 🌱</h3>
+<h3 align="left">Engineering for humanity 🌱</h3>
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/HzPtbOKyBoBFsK4hyc.webp">
 <!-- https://media.tenor.com/Rc1GWDr71WIAAAAM/psyduck.gif -->
 
