@@ -7,9 +7,9 @@
 <!-- https://media.tenor.com/Rc1GWDr71WIAAAAM/psyduck.gif -->
 
 
-- 🪺 I’m currently learning **LLM**
+- 🪺 I’m currently learning **LLM-base social simulation**
 
-- 💬 Ask me about **Network analysis**
+- 💬 Ask me about **COmputational Social Science**
 
 - 📫 How to reach me **vxh440@gmail.com**
 
