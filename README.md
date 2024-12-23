@@ -9,7 +9,7 @@
 
 - 🪺 I’m currently learning **LLM-base social simulation**
 
-- 💬 Ask me about **COmputational Social Science**
+- 💬 Ask me about **Computational Social Science**
 
 - 📫 How to reach me **vxh440@gmail.com**
 
