@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vxh440@gmail.com**
 
-- 📄 Know about my experiences [CV](https://ln5.sync.com/dl/fb708e0c0/z78s8ty5-2pskjyww-qcxqv4zm-9jpykwc2)
+- 📄 Know about my experiences [CV](https://ln5.sync.com/dl/ccf3f5a80/view/doc/28740498480005?sync_id=0#zcs34tx2-3uvch535-nsh64qsz-bxy9qwkr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
