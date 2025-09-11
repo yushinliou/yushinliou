@@ -7,7 +7,7 @@
 <!-- https://media.tenor.com/Rc1GWDr71WIAAAAM/psyduck.gif -->
 
 
-- 🪺 I’m currently learning **IOS App Design*
+- 🪺 I’m currently learning **IOS App Design**
 
 - 💬 Ask me about **Computational Social Science**
 
