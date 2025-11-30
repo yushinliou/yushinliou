@@ -9,7 +9,7 @@
 
 - 🪺 I’m currently learning **IOS App Design**
 
-- 💬 Ask me about **Computational Social Science**
+- 💬 Ask me about **Sound Interaction**
 
 - 📫 How to reach me **vxh440@gmail.com**
 
