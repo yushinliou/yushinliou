@@ -7,9 +7,9 @@
 <!-- https://media.tenor.com/Rc1GWDr71WIAAAAM/psyduck.gif -->
 
 
-- 🪺 I’m currently learning **IOS App Design**
+- 🪺 I’m currently learning **Apache airflow/dbt/ETL**
 
-- 💬 Ask me about **Sound Interaction**
+- 💬 Ask me about **data analysis**
 
 - 📫 How to reach me **vxh440@gmail.com**
 
